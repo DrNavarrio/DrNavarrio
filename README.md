@@ -13,7 +13,7 @@ Hi, I'm Tavit!
 ```
 Taviitt@github
 -------------------------
-💻 I am self taught in Java, Python, HTML, CSS, and C++
+💻 I am self taught in Java, Python, and C++
 📚 Undergraduate majoring in Cyber Security
 🌟 Main language: Java 
 🎵 Metal, Lofi, Space Ambient
