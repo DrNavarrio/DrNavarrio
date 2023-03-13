@@ -55,9 +55,9 @@ watching life through these eyes, realize this dream is mine."
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://i.imgur.com/CPEoYTk.gif" alt="Profile views" align='center'/>
-</p>
+</p>-->
 
 
 ## GitHub Stats
