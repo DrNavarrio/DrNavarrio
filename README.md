@@ -13,10 +13,11 @@ Hi, I'm Tavit!
 ```
 Taviitt@github
 -------------------------
-💻 I am self taught in Java, Python, and C++
-💻 MongoDB, MySQL, SQLite
+💻 Self taught in Java, Python, and C++
+💻 Databases -> MongoDB, MySQL, SQLite
+💻 Kali Linux, Wireshark, Virtual Machines
 📚 Undergraduate majoring in Cyber Security
-🌟 Main language: Java 
+🌟 Main language: Java (6+ Years)
 🎵 Metal, Lofi, Space Ambient
 
 "Only dreams we live, lucidly we are alive,
@@ -40,6 +41,7 @@ watching life through these eyes, realize this dream is mine."
 <p align="center">
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23430098.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
 <h3 align="center">
