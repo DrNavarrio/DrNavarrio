@@ -60,18 +60,7 @@ watching life through these eyes, realize this dream is mine."
 <!--<p align="center">
     <img src="https://i.imgur.com/CPEoYTk.gif" alt="Profile views" align='center'/>
 </p>-->
-
-
-## GitHub Stats
-
-
-|                                                                     Taviitt's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Taviitt's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Taviitt&theme=react-dark&hide_border=true&area=true) |
-| ![Taviitt's github stats](https://github-readme-stats.vercel.app/api?username=Taviitt&show_icons=true&theme=algolia)              | 
-| ![Taviitt's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taviitt&theme=algolia)                    | 
     
-
 |                                                                                                      Taviitt's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Taviitt&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taviitt&langs_count=8&theme=algolia&layout=compact) |
