@@ -20,5 +20,5 @@ Paul Navarre aka DrNavarrio
 🎯 Powerlifting, Gaming, YouTube, Guitar and Drums
 🎵 Metal, Shoegaze, Alt-Rock, Vaporwave
 
-"Only those who keep moving forward will ever know." -Eren Yeager
+"Keep moving forward" -Eren Yeager
 ```
