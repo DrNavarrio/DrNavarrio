@@ -1,7 +1,7 @@
 <h1 align="center">
-Hi, I'm Tavit!
+Hi, I'm Paul!
  </h1>
- <!--<img src="https://komarev.com/ghpvc/?username=Taviitt&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Taviitt" />-->
+ <!--<img src="[https://komarev.com/ghpvc/?username=Taviitt&label=Profile%20Views&color=0e75b6&style=flat](https://f4.bcbits.com/img/a3601098701_16.jpg)" align='right' alt="Taviitt" />-->
  <img src="https://i.gyazo.com/18cda5b571576ff3fb41a0c806d84832.png" alt="Profile views" width='274' align='left'/></a> 
 <br/>
 
