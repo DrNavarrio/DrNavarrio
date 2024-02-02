@@ -11,17 +11,15 @@ Hi, I'm Paul!
 </p>
 
 ```
-Taviitt@github
+DrNavarrio
 -------------------------
-💻 Self taught in Java, Python, and C++
-💻 Databases -> MongoDB, MySQL, SQLite
-💻 Kali Linux, Wireshark, Virtual Machines
-📚 Undergraduate majoring in Cyber Security
-🌟 Main language: Java (6+ Years)
-🎵 Metal, Lofi, Space Ambient
+✅ CompTIA A+ Certified (December 2023)
+🏹 Studying for CompTIA Security+ (expected May 2024)
+💰 Future Roblox Security Engineer
+📓 Pursuing a masters degree in Cyber Security
+🎵 Metal, Shoegaze, Alt-Rock, Vaporwave
 
-"Only dreams we live, lucidly we are alive,
-watching life through these eyes, realize this dream is mine."
+"Only those who keep moving forward will ever know." -Eren Yeager
 ```
 <hr>
 
