@@ -7,7 +7,7 @@ Hi, I'm Paul!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;CompTIA+A+ +C%2B%2B;MongoDB,+MySQL,+SQLite;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Student;Java,+Python,+C%2B%2B;MongoDB,+MySQL,+SQLite;&center=true&width=380&height=45"></a>
 </p>
 
 ```
