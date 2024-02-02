@@ -17,7 +17,7 @@ DrNavarrio
 🏹 Studying for CompTIA Security+ (expected May 2024)
 💰 Future Roblox Security Engineer
 📓 Pursuing a Masters Degree in Cyber Security
-🎯 Powerlifting, YouTube, Guitar, and Drums
+🎯 Powerlifting, Gaming, YouTube, Guitar, and Drums
 🎵 Metal, Shoegaze, Alt-Rock, Vaporwave
 
 "Only those who keep moving forward will ever know." -Eren Yeager
