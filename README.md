@@ -11,7 +11,7 @@ Hi, I'm Paul!
 </p>
 
 ```
-DrNavarrio
+Paul Navarre aka DrNavarrio
 -------------------------
 ✅ CompTIA A+ Certified (December 2023)
 🏹 Studying for CompTIA Security+ (expected May 2024)
