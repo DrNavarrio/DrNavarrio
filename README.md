@@ -12,7 +12,7 @@ Hi, I'm Paul!
 
 ```
 Paul Navarre // DrNavarrio
--------------------------
+--------------------------
 ✅ CompTIA A+ Certified (December 2023)
 🏹 Studying for CompTIA Security+ (expected May 2024)
 💰 Future Roblox Security Engineer
