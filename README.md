@@ -11,14 +11,14 @@ Hi, I'm Paul!
 </p>
 
 ```
-Paul Navarre // DrNavarrio
+Paul Navarre aka dr aka DrNavarrio
 --------------------------
 ✅ CompTIA A+ Certified (December 2023)
-🏹 Studying for CompTIA Security+ (expected May 2024)
+🏹 Studying for CompTIA Security+ (expected Fall 2024)
 💰 Future Roblox Security Engineer
-📓 Pursuing a Masters Degree in Cyber Security
-🎯 Powerlifting, Gaming, YouTube, Guitar and Drums
-🎵 Metal, Shoegaze, Alt-Rock, Vaporwave
+📓 Currently Studying Cyber Security at University
+🎯 Weightlifting, Anime, Manga, Motorcycles, Concerts, Drums
+🎵 Metal, Hardcore, Shoegaze, Alt-Rock, Vaporwave
 
 "Keep moving forward" -Eren Yeager
 ```
