@@ -11,13 +11,12 @@ Hi, I'm Paul!
 </p>
 
 ```
-Paul Navarre // dr // DrNavarrio
+Paul Navarre // dr // DrNavarrio // doc // callhimdoctor
 --------------------------
 ✅ CompTIA A+ Certified (December 2023)
-🏹 Studying for CompTIA Security+ (expected Fall 2024)
-💰 Future Roblox Security Engineer
+🏹 Studying for CompTIA Security+ (expected Winter 2025)
 📓 Currently Studying Cyber Security at University
-🎯 Weightlifting, Anime, Manga, Motorcycles, Concerts, Drums
+🎯 Anime, Manga, Motorcycles, Concerts, Drums
 🎵 Metal, Hardcore, Shoegaze, Alt-Rock, Vaporwave
 
 "Keep moving forward" -Eren Yeager
